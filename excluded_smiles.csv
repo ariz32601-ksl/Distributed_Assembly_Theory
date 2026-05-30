@@ -1,0 +1,9 @@
+﻿Excluded SMILES
+Bio_Basisc
+C[C@@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)[C@H](O)[C@@H]4[C@H](O)[C@@H](O)[C@@H]3[C@H](O)[C@@H]2O1
+Complex_Natural_Products
+C[C@@H]1C[C@]2(C)[C@@H]3CC[C@]4(C)[C@H](CC[C@@H]5[C@@H]6[C@H](O)C[C@]7(C)[C@@H](CC[C@@]78[C@@H]6[C@H](C5)O)OC(=O)c5ccoc5)[C@@]3(C)CC[C@H]2[C@@H]1O
+CC1=C2C=C3C(=C(C)C4=CC5=C(C(C)=C6C=C7C(=C(C)C8=CC(=C1)[N]2[Co]2[N]34)[N]5=C8)[N]6=C7
+C[C@H]1CC[C@@]2([C@H](O1)C[C@@H]3[C@@H](O2)[C@H]4[C@@H](O3)[C@H]5[C@@H](O4)[C@H]6[C@@H](O5)[C@H]7[C@@H](O6)[C@H]8[C@@H](O7)[C@H]9[C@@H](O8)[C@H]%10[C@@H](O9)[C@H]%11[C@@H](O%10)[C@H]%12[C@@H](O%11)[C@H]%13[C@@H](O%12)[C@H]%14[C@@H](O%13)[C@H]%15[C@@H](O%14)[C@H]%16[C@@H](O%15)[C@H]%17[C@@H](O%16)[C@H]%18[C@@H](O%17)[C@H]%19[C@@H](O%18)[C@H]%20[C@@H](O%19)CCO%20
+CC[C@H]1C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N1)C(C)C)C)C(C)C)C(C)C)C)C)CC(C)C)C)C(C)C
+O=C1NC2=C(C#C[C@@H]3O[C@H]3C#C[C@H]4O[C@@H]4C(=O)N2)C(=O)C1=CC=CC=C1
